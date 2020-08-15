@@ -4,7 +4,7 @@ para auditoria a AuditModelTool é uma ferramenta desenvolvida para validação 
 mapemanto de um processo a ferramenta é utilizada para ilustrar os passos necessários para realização de suas auditorias. Espera-se que com o modelo e ferramenta propostos seja 
 possível mapear e executar qualquer processo de auditoria. Estas ferramenta foi disponibilizada em repositório público para que desenvolvedores de softwares de auditoria possam implementar melhorias e funcionalidades  
 que facilitem seu desenvolvimento de uma maneira padronizada, baseados na ISO 19011 e em um modelo genérico de representação de processos de auditoria.</p>
-> Status do Projeto: Concluido :heavy_check_mark:
+<br>Status do Projeto: Concluido :heavy_check_mark:<br>
 ### Autores: 
 |name|email|course|
 | -------- | -------- | -------- |
